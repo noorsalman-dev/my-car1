@@ -26,17 +26,17 @@
 
 ** i worked that in 16-19 november**
 # hour 1
- i made the body and wrote my name at it to put all the parts in it
+ i made the body and wrote my name at it to put all the parts in it 
 ![Screenshot from 2026-11-20 12-53-23](https://halflife.hackclub-assets.com/sessions/zcj7IjWmURbwEFNYIZLUXsNv6ibIwwmy/c08b0d33386587b3774dabd485def1359a8c62a0de2129344751062180e803aa.png)
 ---
 # hour 2
- i hard mad the place for wheels and nales
+ i hard mad the place for wheels and nales 
 ![Screenshot from 2026-11-20 12-44-46](https://halflife.hackclub-assets.com/sessions/zcj7IjWmURbwEFNYIZLUXsNv6ibIwwmy/b29545042738643292d30ea5682174c697fe71d7780ba4ca4487c8a3e83fc026.png)
 ---
 # hour 3
   I was designing the main car body and fixing the transform problem making it ready for next edits ![Screenshot from 2026-11-20 07-05-18](https://halflife.hackclub-assets.com/sessions/zcj7IjWmURbwEFNYIZLUXsNv6ibIwwmy/64465d9a60d0cd3ea2511226e3aa4585f8fe320a1f2d83a83cb3b1a5b39e91e8.png)
 ---
-# hour 4
+# hour 4 
 making some nales and screws
 ![image](https://halflife.hackclub-assets.com/sessions/zcj7IjWmURbwEFNYIZLUXsNv6ibIwwmy/36eff184e60c10f6aba8d17f0a8e4879f6188c9f4c6bcf3458c34e346052c296.png)
 ---
@@ -54,7 +54,7 @@ building the main body again for all the new feutures
 ![image](https://halflife.hackclub-assets.com/sessions/zcj7IjWmURbwEFNYIZLUXsNv6ibIwwmy/16ac07b42a813bf4c493cfeea66872a118a2ccb8b4e6d9103bcf4b8a1cc303dd.png)
 ---
 # hour 8
-building rasberri pi peco main body adding the logo and making holes for the pins
+building rasberri pi peco main body adding the logo and making holes for the pins 
 ![image](https://halflife.hackclub-assets.com/sessions/zcj7IjWmURbwEFNYIZLUXsNv6ibIwwmy/4b41f47e2bf5465987bfe1e53fc76c047ba745edc1d1064a34e387896a76629d.png)
 ---
 # hour 9
@@ -108,7 +108,7 @@ added more pins i hate loop
 more and finesh
 ![Screenshot from 2026-11-20 16-29-04](https://halflife.hackclub-assets.com/sessions/zcj7IjWmURbwEFNYIZLUXsNv6ibIwwmy/aeeac6bb803bdc13d66cc65dc7293c2648c9fe517e38509f750655834a3f83dc.png)
 # hour 7
-making the place for coster wheel
+making the place for coster wheel 
 ![Screenshot from 2026-11-20 16-37-25](https://halflife.hackclub-assets.com/sessions/zcj7IjWmURbwEFNYIZLUXsNv6ibIwwmy/8e074f2bf7b19dfaabcd8777a6a48c27b2781eec7cbd9974c9eac2f6080447dd.png)
 # hour 8
 finishing it
@@ -173,7 +173,7 @@ making the on/off button and placing it and the battary
 make the main body for the catapult
 ![image](https://halflife.hackclub-assets.com/sessions/zcj7IjWmURbwEFNYIZLUXsNv6ibIwwmy/1fb04bf5969d1b77e2275df65c651384ae0efc3fa0d2f36e21df857e68b38139.png)
 # hour 12
-making some parts to put the arm
+making some parts to put the arm 
 ![image](https://halflife.hackclub-assets.com/sessions/zcj7IjWmURbwEFNYIZLUXsNv6ibIwwmy/1b80e4b252562822b3ddeec60b129e58a71ccc42b2b5242b238a824a0d7bbb93.png)
 # hour 13
 making the springs
